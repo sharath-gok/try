@@ -1,3 +1,3 @@
 html edit no longer working ..
 
-the preview changed
+now changed
