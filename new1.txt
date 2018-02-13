@@ -1,1 +1,3 @@
-html edit no longer working
+html edit no longer working ..
+
+the preview changed
